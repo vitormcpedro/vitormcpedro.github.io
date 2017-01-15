@@ -1,6 +1,6 @@
 .navbar {
-  opacity: 0.95;
-  filter: alpha(opacity=95); // For IE8 and earlier
+  opacity: 0.75;
+  filter: alpha(opacity=75); // For IE8 and earlier
   z-index: 1000;
 }
 
@@ -19,17 +19,11 @@
 .title {
   font-size: 42px;
 }
-/*
-.icon-cc { 
-  background-image: url("https://dl.dropboxusercontent.com/u/314204/freecodecamp.png");
-  background-position: center center; 
-  height: 20px; 
-  width: 20px;
-  display: inline-block;
-  background-size: 20px 20px;
+
+.selectedProject {
+  background-color: #eeeeee;
 }
 
-.btn:hover {
-  background-color: white;
+#contact {
+  margin-top: 10px;
 }
-*/

@@ -3,5 +3,5 @@ $(document).ready(function(){
 } );
 
 $(".project").hover(function () {
-  $(this).toggleClass("well");
+  $(this).toggleClass("selectedProject");
  });

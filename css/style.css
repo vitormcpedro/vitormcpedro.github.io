@@ -1,5 +1,5 @@
 .navbar {
-  opacity: 0.75;
+  opacity: 0.80;
   filter: alpha(opacity=75); // For IE8 and earlier
   z-index: 1000;
 }
